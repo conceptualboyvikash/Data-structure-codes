@@ -1,0 +1,4 @@
+1.there are two types of variable.
+a)Global variable;(initilising outside the main fun)
+b)local variable ;(initilising inside main fun)
+
